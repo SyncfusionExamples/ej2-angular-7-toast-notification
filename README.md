@@ -62,7 +62,7 @@ Users can deal with multiple toast notifications that display sequence messages 
 
 [Suggest a feature or report a bug](https://www.syncfusion.com/feedback/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-toast-github-samples)
 
-[Online example](https://ej2.syncfusion.com/angular/demos/#/material/toast/default?utm_source=github&utm_medium=listing&utm_campaign=angular-toast-github-samples)
+[Online example](https://ej2.syncfusion.com/demos/#/bootstrap5/toast/default.html?utm_source=github&utm_medium=listing&utm_campaign=angular-toast-github-samples)
 
 [Knowledge base](https://www.syncfusion.com/kb/angular-components?utm_source=github&utm_medium=listing&utm_campaign=angular-toast-github-samples)
 
